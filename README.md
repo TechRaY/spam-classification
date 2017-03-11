@@ -13,3 +13,5 @@ Data is a subset of 2005 TREC Public Spam Corpus. It contains a training set and
 4. Run the script to get the accuracy as output. More features can be added to dataset by changing the python script.
 5. To use the libSVm , setup it up using the instructionsin libSVM package.
 6. Run the matlab script to get the accuracy.
+
+Report on performance of SVM on this particular dataset and the results are included in Analysis.docx file. No major feature engineering was done to get the results. Many more things can be done to increase the performance of the system.
